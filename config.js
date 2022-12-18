@@ -21,19 +21,19 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "Indonesia, Jawa timur, Jawa" //ur location
 
 //bot bomdy 
-global.owner = ['4915256954581'] //ur number
-global.ownernomer = "4915256954581" //ur number
-global.ownertag = '4915256954581' //ur tag number
-global.premium = ['4915256954581'] //ur premium number
-global.botname = 'NiluhChanbot' //ur bot name
-global.ownername = "🦄NiluhChan"
+global.owner = ['6285852939370'] //ur number
+global.ownernomer = "6285852939370" //ur number
+global.ownertag = '6285852939370' //ur tag number
+global.premium = ['6285852939370'] //ur premium number
+global.botname = 'gatau' //ur bot name
+global.ownername = "🦄gatau"
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
-global.themeemoji = "🦄niluhChan" //ur theme emoji
+global.themeemoji = "🦄gatau" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "NiluhChan" //ur sticker watermark author
-global.wm = "Niluh Chan Inc." //ur watermark
+global.author = "gatau" //ur sticker watermark author
+global.wm = "gatau Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
